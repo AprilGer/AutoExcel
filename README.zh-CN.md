@@ -24,7 +24,7 @@ Maven:
 
 ```xml
 <dependency>
-    <groupId>org.shixuan</groupId>
+    <groupId>io.github.aprilger</groupId>
     <artifactId>autoexcel-spring-boot-starter</artifactId>
     <version>1.0.1</version>
 </dependency>
